@@ -1,20 +1,12 @@
-📝 Task Management App
-A simple and efficient task management application built using React, Vite, and TailwindCSS. This project helps users organize their tasks with a clean and responsive user interface. Add, edit, delete, and mark tasks as complete—all in one streamlined interface.
+# React + Vite
 
-🚀 Tech Stack
-React – Frontend library for building user interfaces
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Vite – Lightning-fast development environment and bundler
+Currently, two official plugins are available:
 
-TailwindCSS – Utility-first CSS framework for rapid UI styling
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-✅ Features
-Add new tasks with ease
+## Expanding the ESLint configuration
 
-Edit existing tasks
-
-Delete unwanted tasks
-
-Mark tasks as completed
-
-Responsive design for all screen sizes# Task-Management-app
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
